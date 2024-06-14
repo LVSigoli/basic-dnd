@@ -1,13 +1,15 @@
+import { KanbanBoard } from "./components/Kanban"
 
-import './App.css'
-import { KanbaBoard } from './components/Kanban'
+
+
 
 function App() {
 
 
   return (
     <>
-     <KanbaBoard/>
+
+ <KanbanBoard/>
     </>
   )
 }
